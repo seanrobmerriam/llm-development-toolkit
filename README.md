@@ -96,7 +96,7 @@ Test and Code Agents work together in a Red → Green → Refactor cycle. Debug 
 
 ```bash
 git clone https://github.com/seanrobmerriam/llm-development-toolkit.kit
-cd agent-pipeline
+cd llm-development-toolkit
 ```
 
 Or copy the repo contents into the root of your existing project — `AGENTS.md`, `workflows/`, `skills/`, and `rules/` should all sit at the project root.
